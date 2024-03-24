@@ -1,0 +1,12 @@
+
+.header{
+    color: #fff;
+    background-color: rgb(31, 21, 92);
+    height: 80px;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    text-transform: capitalize;
+    font-size: 2em;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
